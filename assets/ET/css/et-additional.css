@@ -603,7 +603,7 @@
   .cid-sHbUDLGPF2 .item-img,
   .cid-sHbUDLGPF2 img {
     width: 100%;
-    height: 100%;
+    height:50%;
     object-fit: cover;
   }
   .cid-sHbUDLGPF2 .item:focus,
